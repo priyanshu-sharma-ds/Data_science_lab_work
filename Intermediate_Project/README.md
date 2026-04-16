@@ -1,3 +1,3 @@
-# Fun Project
+# Intermediate Project
 
-This is a simple Python project.
+This project includes data analysis and visualization.
